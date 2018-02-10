@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Summation">
+    <output-path>$PROJECT_DIR$/out/artifacts/Summation</output-path>
+    <root id="archive" name="Summation.jar" />
+  </artifact>
+</component>
